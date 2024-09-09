@@ -1,5 +1,3 @@
-## Salut, moi c'est Karim FEKI 👋
-
 ### 🧑‍💻 À propos de moi
 Je suis un étudiant en développement web et applications, passionné par le numérique et par la création de solutions innovantes.
 
