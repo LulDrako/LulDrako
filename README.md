@@ -10,7 +10,7 @@ Je suis un étudiant en développement web et applications, passionné par le nu
 </div>
 
 ### 🔗 Retrouve-moi sur
-- [Mon portfolio](https://luldrako.vercel.app)
+- [Mon portfolio](https://www.karimfeki.fr)
 - [LinkedIn](https://www.linkedin.com/in/karim-feki-18ab66249)
 - [Exercism](https://exercism.org/profiles/LulDrako)
 
