@@ -1,7 +1,3 @@
-## 🧑‍💻 À propos de moi
-Je suis un étudiant en développement web et applications, passionné par le numérique et par la création de solutions innovantes.
-<div align="center">
-  
 ### 📊 Mes stats GitHub
 ![GitHub Streak](https://streak-stats.demolab.com?user=LulDrako&theme=gotham&hide_border=true)
 
