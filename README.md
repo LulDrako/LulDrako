@@ -1,9 +1,9 @@
 <div align="center">
 
-### 📊 Mes stats GitHub
+### Stats GitHub
 ![GitHub Streak](https://streak-stats.demolab.com?user=LulDrako&theme=gotham&hide_border=true)
 
-### 🔥 Langages les plus utilisés
+### Langages
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LulDrako&theme=gotham&hide_border=true&layout=donut-vertical)
 
 </div>
