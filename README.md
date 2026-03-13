@@ -8,6 +8,6 @@
 
 ### 🔗 Retrouve-moi sur
 - [Mon portfolio](https://www.karimfeki.fr)
-- [LinkedIn](https://www.linkedin.com/in/karim-feki-18ab66249)
+- [LinkedIn](https://www.linkedin.com/in/karim-feki)
 
 </div>
