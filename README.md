@@ -1,14 +1,14 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/7a1e8413-cba7-40a6-835f-438fe759d305" width="500" />
-</div>
-
-<br/>
-
-<div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=LulDrako&style=flat-square&color=000000&label=PROFILE+VIEWS)
 
 </div>
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/7a1e8413-cba7-40a6-835f-438fe759d305" width="500" />
+</div>
+
+<br/>
 
 
 ## Technologies
