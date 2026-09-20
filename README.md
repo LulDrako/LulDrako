@@ -27,7 +27,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js-111?style=for-the-badge&logo=nodedotjs&logoColor=FFFFFF)
 ![PHP](https://img.shields.io/badge/PHP-111?style=for-the-badge&logo=php&logoColor=FFFFFF)
 ![Git](https://img.shields.io/badge/Git-111?style=for-the-badge&logo=git&logoColor=FFFFFF)
-![Cursor](https://img.shields.io/badge/Git-111?style=for-the-badge&logo=cursor&logoColor=FFFFFF)
+![Cursor](https://img.shields.io/badge/Cursor-111?style=for-the-badge&logo=cursor&logoColor=FFFFFF)
 
 
 </div>
