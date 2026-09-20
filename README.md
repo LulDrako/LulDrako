@@ -1,4 +1,4 @@
-<div align="right">
+<div align="left">
   <img src="https://komarev.com/ghpvc/?username=LulDrako&style=flat-square&color=000000&label=PROFILE+VIEWS" height="20" alt="Profile Views" />
 </div>
 
