@@ -31,7 +31,7 @@
 
 <img src="https://streak-stats.demolab.com?user=LulDrako&theme=dark&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&background=0d0d0d&border=2a2a2a&stroke=2a2a2a&dates=AAAAAA&sideLabels=FFFFFF" alt="streak"/>
 
-<br/><br/>
+<br/>
 
 <img src="profile-summary-card-output/github_dark/2-most-commit-language.svg" width="400" />
 <img src="profile-summary-card-output/github_dark/1-repos-per-language.svg" width="400" />
