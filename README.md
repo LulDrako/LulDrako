@@ -24,12 +24,11 @@
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-111?style=for-the-badge&logo=javascript&logoColor=FFFFFF)
 ![TypeScript](https://img.shields.io/badge/TypeScript-111?style=for-the-badge&logo=typescript&logoColor=FFFFFF)
-![HTML5](https://img.shields.io/badge/HTML5-111?style=for-the-badge&logo=html5&logoColor=FFFFFF)
-![CSS3](https://img.shields.io/badge/CSS3-111?style=for-the-badge&logo=css3&logoColor=FFFFFF)
 ![Node.js](https://img.shields.io/badge/Node.js-111?style=for-the-badge&logo=nodedotjs&logoColor=FFFFFF)
 ![PHP](https://img.shields.io/badge/PHP-111?style=for-the-badge&logo=php&logoColor=FFFFFF)
 ![Git](https://img.shields.io/badge/Git-111?style=for-the-badge&logo=git&logoColor=FFFFFF)
-![GitHub](https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=FFFFFF)
+![Cursor](https://img.shields.io/badge/Git-111?style=for-the-badge&logo=cursor&logoColor=FFFFFF)
+
 
 </div>
 
@@ -53,5 +52,3 @@
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-111?style=for-the-badge)](https://linkedin.com/in/karim-feki)
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=120&section=footer" width="100%" />
